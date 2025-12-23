@@ -1,0 +1,21 @@
+{
+  "name": "discord-razorpay-subscription-bot",
+  "version": "1.0.0",
+  "description": "Discord subscription bot with Razorpay payments, auto expiry, tickets, logs, and dashboard (bot-hosting.net ready)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "better-sqlite3": "^9.4.0",
+    "razorpay": "^2.9.5",
+    "node-cron": "^3.0.3",
+    "uuid": "^9.0.1"
+  }
+}
