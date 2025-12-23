@@ -25,3 +25,4 @@ Production-ready Discord bot with:
 2. Connect GitHub repo to bot-hosting.net
 3. Create a `.env` file in bot-hosting.net with:
 
+
